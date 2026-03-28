@@ -47,6 +47,7 @@ touch cython/*.py[xh]
 %{__automake}
 %configure \
 	ac_cv_path_CYTHON=/usr/bin/cython2 \
+	PYTHON=%{__python} \
 	--disable-silent-rules \
 	--disable-static \
 	--without-tests
