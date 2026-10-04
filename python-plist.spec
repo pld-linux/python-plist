@@ -2,7 +2,7 @@ Summary:	Python 2 bindings for libplist
 Summary(pl.UTF-8):	Wiązania libplist dla Pythona 2
 Name:		python-plist
 Version:	2.4.0
-Release:	5
+Release:	6
 License:	LGPL v2.1+
 Group:		Development/Languages/Python
 # Source0Download: https://libimobiledevice.org/
